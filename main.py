@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('What an awesome print!')
+    print('Мне не нравится git')
 
 
 def main():
@@ -12,4 +12,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-print(1)
